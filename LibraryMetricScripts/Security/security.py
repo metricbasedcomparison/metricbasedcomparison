@@ -1,3 +1,9 @@
+#This script will extract the Security metrics 
+#Requirements: Need the list of security keywords (securitywords.txt) and security dataset (securitydataset.xlsx)
+#              Needs the list of repositories (repositories.txt)
+#              You will need to install Pygithub, and some other libraries (nltk, etc).
+#HOW TO USE: Just run the script.
+
 import re
 import nltk
 import sys
