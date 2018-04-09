@@ -7,6 +7,8 @@ of Software Libraries". The contents of this repository are the following:
 
 * The ComparisonScreenshots folder contains a screenshot of the metric-based comparison of each of our 10 subject domains, as participants of our survey saw it in our website.
 
+* The SurveyData folder contains individual plots for the ratings of each of our 9 metrics across the different domains. Additionally, the MostSelectedLibraries image provides a table with the most selected libraries by participants per domain.
+
 * The metric data that we extracted for our subject libraries can be found in the file "Metric Data for Subject Libraries.xlsx". The metric data was extracted in the month of January, 2018.
 
 * The LibraryMetricScripts folder contains a script for each of our 9 metrics presented in our paper. Each file contains a description on how to run the script. All scripts were developed using Python 3. For libraries whose issue tracking systems are on jira, please refer to the JIRA folder.
